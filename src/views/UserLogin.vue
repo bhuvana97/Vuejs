@@ -8,15 +8,6 @@
 
 
 <script>
-// @ is an alias to /src
-
-
-// export default {
-//   name: 'Home',
-//   components: {
-//     HelloWorld
-//   }
-// }
 
 
 
@@ -32,7 +23,7 @@ export default {
       localStorage.clear();
       alert("successfully logout")
         this.$router.push('/about');
-      // location.replace("http://127.0.0.1:8081/")   
+     
     }
 },
 }
