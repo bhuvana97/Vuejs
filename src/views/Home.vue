@@ -20,7 +20,7 @@
      
       <button  class="signupbtn">Sign Up</button>
     </div>
-  <!-- </div>
+   </div>
 </form>
 
 
