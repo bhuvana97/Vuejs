@@ -4,7 +4,7 @@
 
 
 
-<!-- <form  @submit="handleSubmit"> -->
+<form  @submit="handleSubmit"> 
   <div class="container">
     <h1>Sign Up</h1>
     <hr>
@@ -18,10 +18,10 @@
 
     <div class="clearfix">
      
-      <button v-on:click="handleSubmit" class="signupbtn">Sign Up</button>
+      <button  class="signupbtn">Sign Up</button>
     </div>
   <!-- </div>
-</form> -->
+</form>
 
 
   </div>
