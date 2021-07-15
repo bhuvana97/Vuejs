@@ -20,13 +20,12 @@
      
       <button  class="signupbtn">Sign Up</button>
     </div>
-  
+  </div>
 </form>
 
 
   </div>
 
-  </div>
 </template>
 
 <script>
